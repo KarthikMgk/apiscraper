@@ -10,3 +10,6 @@ output.html
 output.json
 server.log
 venv/
+apiscraper-env/
+chromedriver/
+browserproxy/
